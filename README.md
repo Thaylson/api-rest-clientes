@@ -40,7 +40,7 @@ Este projeto é uma **API REST simples** desenvolvida em **JavaScript com Node.j
 
 ### Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+https://github.com/Thaylson/api-rest-clientes.git
 
 cd nome-do-repositorio
 npm install
