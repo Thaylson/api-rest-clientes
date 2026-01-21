@@ -65,6 +65,18 @@
       "nome": "Ana Atualizada ",
       "email": "ana.atualizada@email.com",
       "idade": 24
+    },
+    {
+      "id": 14,
+      "nome": "Carlos Silva",
+      "email": "carlos@email.com",
+      "idade": 26
+    },
+    {
+      "id": 15,
+      "nome": "Natalia Witzel",
+      "email": "natalia.wt@email.com",
+      "idade": 30
     }
   ]
 }
